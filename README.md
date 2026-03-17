@@ -24,7 +24,7 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 #### Load unpacked: Chrome, Microsoft Edge or Brave (all desktop)
 * or add extension to allowlist and install automatically updating crx-file (see next section)
 
-1. Download this repository as a [ZIP-file from GitLab](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/archive/master/bypass-paywalls-chrome-clean-master.zip).
+1. Download this repository as a [ZIP-file from gitflic](https://gitflic.ru/project/magnolia1234/bpc_uploads/blob/raw?file=bypass-paywalls-chrome-clean-master.zip).
 2. Unzip the file and you should have a folder named `bypass-paywalls-chrome-clean-master`.
 3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
 4. Go to the extensions page (`chrome://extensions`).
